@@ -1,0 +1,33 @@
+Identifier: 
+
+Title: Modelo digital de elevación tipo superficie con resolución de 1.5m generado a partir de datos de altimetría del relieve.
+
+Description: El MDE es una representación continua del relieve, constituida por la distribución espacial y regular de valores de altura de las formas del relieve terrestre y los elementos presentes sobre el mismo con respecto a un nivel de referencia o nivel medio del mar.
+ Este producto es derivado de nubes de puntos fotogramétricas que son el resultado de la aplicación de procesos de orientación y correlación fotogramétrica a las imágenes de satélite de alta resolución captadas en modo estereoscópico, a estas nubes de puntos se les aplica un proceso de clasificación, el cual permite filtrar los puntos de acuerdo al elemento que representan (terreno, vegetación, construcciones, etcétera) para posteriormente generar los modelos. 
+Los Modelos Digitales de Elevación de tipo Superficie (MDS) son la representación continua en forma digital del terreno, los elementos de vegetación y antrópicos presentes sobre el mismo terreno. Derivado del proceso fotogramétrico algunas áreas podrán presentar interpolaciones correspondientes a discontinuidades generalmente visualizadas por triangulaciones que no corresponden con del terreno, causadas por efectos de la correlación fotogramétrica en áreas de sombra, pendientes de terreno muy pronunciadas (cercanas a los 90°), zonas con vegetación densa y zonas de cultivo, principalmente. También pueden existir huecos por nubosidad densa en los datos fuente (imágenes de satélite). En el mismo sentido y debido a la diferencia de temporalidad de los datos fuente se pueden presentar diferencias en la representación de los elementos entre modelos adyacentes sobre todo en cuerpos de agua, zonas de inundación, corrientes intermitentes, entre. Sin embargo, estas anomalías han sido procesadas y en algunos casos se incluyó información auxiliar para disminuir sus efectos en la representación del relieve. 
+La cobertura espacial de los modelos es conforme la división y nomenclatura de los conjuntos de datos espaciales en escala 1:10 000, considerando una faja o área de excedencia con el fin de garantizar la continuidad lógica entre modelos adyacentes. 
+Los archivos digitales correspondientes a los modelos tienen una estructura de tipo ráster, la cual permite representar mejor las variables continuas de forma gradual de la elevación de las formas del relieve y los elementos presentes sobre el mismo.
+ Este producto podría emplearse para coadyuvar en diversos usos y aplicaciones o bien generar otros subproductos entre los cuales se pueden mencionar, obtención de desniveles, cálculo de volúmenes de tierra, obtención de pendientes su aspecto u orientación, índices de rugosidad del terreno, delimitar cuencas hidrográficas, secciones o perfiles, identificar áreas sujetas a inundación, etc. Además que, pueden ser empleados para mapeo digital, verificación de redes geodésicas, análisis del paisaje, estudios de erosión y transporte de sedimentos, estudios geotérmicos, estudios geomorfológicos y de estructuras geológicas, estudios hidráulicos e hidrológicos, gestión de zonas de costa, visualización del relieve sombreado, trazos de infraestructura vial, planeación de políticas ambientales, manejo de los recursos naturales, estudios de la vegetación, procesos de análisis espacial, prevención de desastres naturales, animación en 3D para simuladores, estudios de insolación, análisis de inter visibilidad y otros de acuerdo a la aptitud de usos que determine el usuario.
+
+
+Modified: 2022-02-16  
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: atencion.usuarios@inegi.org.mx
+
+License: https://www.inegi.org.mx/inegi/terminos.html
+
+DataDictionary: 
+
+Keyword: "altimetría", "altura", "elevación", "fotogrametría", "GRID", "MDE", "MDS", "MDT", "Modelo Digital de Elevación", "Modelo Digital de Superficie", "Modelo Digital de Terreno", "percepción remota pasiva", "relieve", "superficie", "terreno"
+
+ContactPoint: Mtro. J. Armando Aguiar Rodríguez, 800 111 4634
+
+Temporal: 2021-01-01-2021-12-31 
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Irregular
+
+Distribution: https://www.inegi.org.mx/app/mapas/?t=0150002000000000
