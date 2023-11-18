@@ -2,7 +2,6 @@ LSTM Tuner/.idea/
 LSTM Tuner/Archive/
 LSTM Tuner/keras-tuner/
 ML Iterative Prediction/.idea/
-ML Iterative Prediction/results/
 desktop.ini
 ML Iterative Prediction/cache/rf_models_N=15.joblib
 ML Iterative Prediction/cache/rf_models_N=30.joblib
