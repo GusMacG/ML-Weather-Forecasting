@@ -1,2 +1,5 @@
-
-.DS_Store
+LSTM Tuner/.idea/
+LSTM Tuner/Archive/
+LSTM Tuner/keras-tuner/
+ML Iterative Prediction/.idea/
+ML Iterative Prediction/results/
