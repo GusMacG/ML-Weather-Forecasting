@@ -13,8 +13,8 @@ This repository contains the codebase employed for our research on accurate weat
 ## Installation
 To set up the project environment:
 ```bash
-git clone https://github.com/Weather Forecasting in Monterrey Using Machine Learning
-cd weather-forecast-monterrey
+git clone https://github.com/GusMacG/ML-Weather-Forecasting
+cd \destination-folder
 pip install -r requirements.txt
 
 ## Running the Notebooks
