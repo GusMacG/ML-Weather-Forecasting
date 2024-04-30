@@ -23,4 +23,4 @@ pip install -r requirements.txt
 
 ## Acknowledgments
 
-This project was supported by the Department of Sciences and Engineering at the Instituto Tecnológico y de Estudios Superiores de Monterrey. Special thanks to the Observatorio Cuenca De Río Bravo and the meteorologists at Sistema Meteorológico Nacional, for providing the dataset used in this study.
+This project was supported by the Research Group in Advanced Artificial Intelligence at Tecnológico de Monterrey. Special thanks to the Observatorio Cuenca De Río Bravo and the meteorologists at Sistema Meteorológico Nacional, for providing the dataset used in this study.
